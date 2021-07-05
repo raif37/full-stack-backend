@@ -1,4 +1,4 @@
-package com.restfull.fullstackbackend.basicAuth;
+package com.restfull.basicAuth;
 
 public class AuthenticationBean {
 

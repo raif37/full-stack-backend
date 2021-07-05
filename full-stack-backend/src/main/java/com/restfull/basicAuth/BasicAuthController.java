@@ -1,4 +1,4 @@
-package com.restfull.fullstackbackend.basicAuth;
+package com.restfull.basicAuth;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
